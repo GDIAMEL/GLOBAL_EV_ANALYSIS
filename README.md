@@ -1,7 +1,10 @@
 # GLOBAL_EV_ANALYSIS
 ![Image](https://github.com/user-attachments/assets/b8af5aaf-3fe1-43d7-9e4e-f722e86555ec)![Image](https://github.com/user-attachments/assets/b8af5aaf-3fe1-43d7-9e4e-f722e86555ec)
 
-This project explores global electric vehicle (EV) data to uncover trends, correlations, and insights related to EV adoption, infrastructure development, and powertrain technology over time.
+
+## Project Description
+
+**This project analyzes global electric vehicle (EV) data to uncover adoption trends, infrastructure growth, and technology evolution over time. Through data cleaning, visualization, and correlation analysis, the project provides insights into the rise of EVs, the development of charging infrastructure, and the emergence of new powertrain technologies such as BEVs, PHEVs, and FCEVs.**
 
 ##  Project Structure
 
