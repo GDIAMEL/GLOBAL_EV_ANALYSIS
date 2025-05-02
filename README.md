@@ -21,7 +21,7 @@ This project explores global electric vehicle (EV) data to uncover trends, corre
 ## Technologies Used
 
 - Python
-- Jupyter Notebook
+- Google Colab
 - Pandas, NumPy
 - Seaborn, Matplotlib
 
