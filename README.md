@@ -33,7 +33,7 @@ This project explores global electric vehicle (EV) data to uncover trends, corre
 
 ## Conclusion
 
-The analysis of global electric vehicle (EV) data reveals a significant upward trend in the adoption of EVs, particularly between 2015 and 2024. Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) have seen the highest deployment rates, supported by a growing network of publicly available fast and slow charging stations. The emergence of Fuel Cell Electric Vehicles (FCEVs) is still at a relatively early stage but shows signs of growing interest post-2020. Despite this growth, correlation analysis indicates a weak linear relationship between deployment year and measured values, suggesting that other external factors—such as policies, market conditions, and consumer behavior—may play a more decisive role.
+The analysis of global electric vehicle (EV) data reveals a significant upward trend in the adoption of EVs, particularly between 2015 and 2024. Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) have seen the highest deployment rates, supported by a growing network of publicly available fast and slow charging stations. The emergence of Fuel Cell Electric Vehicles (FCEVs) is still at a relatively early stage but shows signs of growing interest post-2020. Despite this growth, correlation analysis indicates a weak linear relationship between deployment year and measured values, suggesting that other external factors—such as policies, market conditions, and consumer behavior may play a more decisive role.
 
 ## Recommendations
 
