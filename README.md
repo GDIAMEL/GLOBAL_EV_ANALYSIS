@@ -1,5 +1,5 @@
 # GLOBAL_EV_ANALYSIS
-![Image](https://github.com/user-attachments/assets/b8af5aaf-3fe1-43d7-9e4e-f722e86555ec)![Image](https://github.com/user-attachments/assets/b8af5aaf-3fe1-43d7-9e4e-f722e86555ec)![Image](https://github.com/user-attachments/assets/b8af5aaf-3fe1-43d7-9e4e-f722e86555ec)
+![Image](https://github.com/user-attachments/assets/b8af5aaf-3fe1-43d7-9e4e-f722e86555ec)![Image](https://github.com/user-attachments/assets/b8af5aaf-3fe1-43d7-9e4e-f722e86555ec)
 
 This project explores global electric vehicle (EV) data to uncover trends, correlations, and insights related to EV adoption, infrastructure development, and powertrain technology over time.
 
@@ -33,7 +33,25 @@ This project explores global electric vehicle (EV) data to uncover trends, corre
 
 ## Conclusion
 
-The analysis reveals a growing trend in electric vehicle adoption globally from 2015 to 2024, with significant infrastructure development and early projections up to 2035. Fuel Cell Electric Vehicles (FCEVs) are still emerging, while Battery Electric Vehicles (BEVs) dominate current and projected trends.
+The analysis of global electric vehicle (EV) data reveals a significant upward trend in the adoption of EVs, particularly between 2015 and 2024. Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) have seen the highest deployment rates, supported by a growing network of publicly available fast and slow charging stations. The emergence of Fuel Cell Electric Vehicles (FCEVs) is still at a relatively early stage but shows signs of growing interest post-2020. Despite this growth, correlation analysis indicates a weak linear relationship between deployment year and measured values, suggesting that other external factors—such as policies, market conditions, and consumer behavior—may play a more decisive role.
+
+## Recommendations
+
+- **Encourage Policy Support**  
+  Expand government incentives, tax credits, and infrastructure subsidies to accelerate EV adoption in underrepresented regions.
+
+- **Enhance Charging Infrastructure**  
+  Prioritize the development of both fast and slow public charging stations to meet growing demand and reduce range anxiety.
+
+- **Support Emerging Technologies**  
+  Invest in the research and development of new mobility technologies such as Fuel Cell Electric Vehicles (FCEVs) to diversify future transport solutions.
+
+- **Incorporate Broader Predictive Data**  
+  Future analyses should integrate socioeconomic, policy, and geographic data to better understand and predict adoption patterns.
+
+- **Plan for Scalability**  
+  Ensure that urban planning and energy infrastructure can accommodate the projected rise in EV usage and charging demand over the next decade.
+
 
 ## License
 
